@@ -10,7 +10,7 @@ Angol felület / Magyar felület között az alkalmazásban lévő zászlógombo
 
 ---
 
-## ⚠️ Ezt olvasd el először — figyelmeztetések és feltételezések
+## ⚠️ Ezt olvasd el először — figyelmeztetések
 
 - **Az alkalmazás a valódi postafiókodon dolgozik.** A törlés nem
   visszafordítható, kivéve ha a *Áthelyezés a Kukába* módot használod.
@@ -113,3 +113,4 @@ python ginbox-cleaner.py
 ## Licenc
 
 MIT — lásd [LICENSE](LICENSE). Nem áll kapcsolatban a Google-lel.
+
