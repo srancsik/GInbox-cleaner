@@ -28,9 +28,6 @@ Angol felület / Magyar felület között az alkalmazásban lévő zászlógombo
   ellenőrzésnek kell bekapcsolva lennie a fiókodon.
 - A binárisok önállóan futtathatók (~56–72 MB — a Python és a Qt
   mellékelve van).
-- **A Windows-kiadások jelenleg önaláírtak** — a SmartScreen figyelmeztethet.
-  Kattints a *További információ → Futtatás mindenképpen* gombra, vagy
-  előbb ellenőrizd a SHA256-ellenőrzőösszeget.
 - Nem áll kapcsolatban a Google-lel. A Gmail a Google LLC védjegye.
 
 ## Letöltések
@@ -113,4 +110,5 @@ python ginbox-cleaner.py
 ## Licenc
 
 MIT — lásd [LICENSE](LICENSE). Nem áll kapcsolatban a Google-lel.
+
 
