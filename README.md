@@ -9,7 +9,7 @@ English UI | Hungarian UI — switchable with the flag buttons in the app.
 
 ---
 
-## ⚠️ Read this first — warnings & assumptions
+## ⚠️ Read this first — warnings 
 
 - **This app acts on your real mailbox.** Deletion is not reversible
   unless you use *Move to Trash* mode. Prefer Trash — mail there stays
@@ -99,3 +99,4 @@ python ginbox-cleaner.py
 ## License
 
 MIT — see [LICENSE](LICENSE). Not affiliated with Google.
+
